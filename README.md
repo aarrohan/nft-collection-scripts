@@ -1,1 +1,1 @@
-# nft-collection-scripts
+# NFT Collection Scripts (Images & Metadatas/Jsons)
